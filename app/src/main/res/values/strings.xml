@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlueAngelAudioV2</string>
+    <string name="label_latitude">Latitude:</string>
+    <string name="label_longitude">Longitude:</string>
+    <string name="edit_text">Enter Text</string>
+    <string name="label_button">TEXT TO SPEECH</string>
+</resources>
